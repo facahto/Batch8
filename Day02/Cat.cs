@@ -17,4 +17,21 @@ public class Cat
 	{
 		Console.WriteLine("Meow");
 	}
+	
+	//overload: di saat isi dari parameter memiliki beragam argumen atau argumen yang tidak lengkap
+	public void Eat(string food) 
+	{
+		Console.WriteLine($"Eat {food}");
+	}
+	public void Eat(string food,int count) 
+	{
+		for (int i = 0; i < count; i++)
+		{
+			Console.WriteLine($"Eat {food} for {i} times");
+		}
+	}
+	public void Eat(int count) 
+	{
+		Console.WriteLine($"Eat for {count} times");
+	}
 }

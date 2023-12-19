@@ -1,14 +1,24 @@
-﻿using BangunDatar;
+﻿
 
-class Program
+class Program //Class //PascalCase
 {
-	static void Main()
+	static void Main() //Methode / Function
 	{
-		Triangle luas = new Triangle();
-		luas.width = 5;
-		luas.length = 5;
-		luas.Hitung();
-		
+		Jarot jarot = new Jarot();
+		Yanto yanto = new Yanto();
+		Joni joni = new Joni();
+		int x = 3;
+		string y = "Hello";
+		Cimol kucingku = new Cimol();
+		kucingku.Meow();
+		kucingku.gender = "male";
+		kucingku.age = 2;
+		kucingku.species = "domestic";
+
+		string myResult = kucingku.gender;
+		Console.WriteLine(myResult);
+		Console.WriteLine(kucingku.gender);
+
+		kucingku.Eat("nasi");
 	}
 }
-
