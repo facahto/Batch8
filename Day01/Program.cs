@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using BangunDatar;
+
+class Program
+{
+	static void Main()
+	{
+		Triangle luas = new Triangle();
+		luas.width = 5;
+		luas.length = 5;
+		luas.Hitung();
+		
+	}
+}
+
