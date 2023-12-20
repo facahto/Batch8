@@ -2,9 +2,10 @@ namespace Day04;
 
 public class Dog : Animal
 {
-	public Dog()
+	public Dog(int age, string name) : base(age,name)
 	{
-		Console.WriteLine("Bark");
+		this.age = age;
+		this.name = name;
 	}
 	public void bark()
 	{

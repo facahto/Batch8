@@ -4,18 +4,10 @@ class Program
 {
 	static void Main()
 	{
+		Cat cat = new Cat(2,"Carlos");
+		Console.WriteLine(cat.age);
 		
-		Cat cat = new Cat();
-		cat.Eat("Ikan");
-		cat.meow();
-		
-		Dog dog = new Dog();
-		dog.Eat("Tulang");
-		dog.bark();
-		
-		Bird bird = new Bird();
-		bird.Eat("Biji");
-		bird.chirp();
-		
+		Animal animal = new Animal(6,"Harry");
+		Console.WriteLine(animal.age);
 	}
 }

@@ -2,9 +2,10 @@ namespace Day04;
 
 public class Cat : Animal
 {
-	public Cat()
+	public Cat(int age, string name) : base(age,name)
 	{
-		Console.WriteLine("Meow");
+		this.age = age;
+		this.name = name;
 	}
 	public void meow()
 	{

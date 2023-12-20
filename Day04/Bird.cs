@@ -2,9 +2,10 @@ namespace Day04;
 
 public class Bird : Animal
 {
-	public Bird()
+	public Bird(int age, string name) : base(age,name)
 	{
-		Console.WriteLine("Chirp");
+		this.age = age;
+		this.name = name;
 	}
 	
 	public void chirp()
