@@ -2,10 +2,10 @@ namespace Day04;
 
 public class Dog : Animal
 {
-	public Dog(int age, string name) : base(age,name)
+	public string speed;
+	public Dog(int age, string name, string speed) : base(age,name)
 	{
-		this.age = age;
-		this.name = name;
+		this.speed = speed;
 	}
 	public void bark()
 	{

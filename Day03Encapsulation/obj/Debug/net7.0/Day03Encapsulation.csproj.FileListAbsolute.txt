@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\bin\Debug\net7.0\Day03Encapsulation.exe
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\bin\Debug\net7.0\Day03Encapsulation.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\bin\Debug\net7.0\Day03Encapsulation.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\bin\Debug\net7.0\Day03Encapsulation.dll
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\bin\Debug\net7.0\Day03Encapsulation.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.dll
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\refint\Day03Encapsulation.dll
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\Day03Encapsulation.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03Encapsulation\obj\Debug\net7.0\ref\Day03Encapsulation.dll

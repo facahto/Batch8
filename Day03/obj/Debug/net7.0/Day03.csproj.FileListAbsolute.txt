@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day03\bin\Debug\net7.0\Day03.exe
+C:\Users\Batch 8\Desktop\Batch8\Day03\bin\Debug\net7.0\Day03.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day03\bin\Debug\net7.0\Day03.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day03\bin\Debug\net7.0\Day03.dll
+C:\Users\Batch 8\Desktop\Batch8\Day03\bin\Debug\net7.0\Day03.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.dll
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\refint\Day03.dll
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\Day03.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day03\obj\Debug\net7.0\ref\Day03.dll

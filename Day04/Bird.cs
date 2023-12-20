@@ -1,11 +1,13 @@
+using System.Drawing;
+
 namespace Day04;
 
 public class Bird : Animal
 {
-	public Bird(int age, string name) : base(age,name)
+	public string species;
+	public Bird(int age, string name, string species) : base(age,name)
 	{
-		this.age = age;
-		this.name = name;
+		this.species = species;
 	}
 	
 	public void chirp()
