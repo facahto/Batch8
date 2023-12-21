@@ -1,22 +1,14 @@
-﻿
-using Day04;
-class Program
+﻿class Program
 {
 	static void Main()
 	{
-		Animal animal = new Animal(6,"Harry");
-		Console.WriteLine(animal.age);
-		
-		Cat cat = new Cat(2,"Carlos","White");
-		Console.WriteLine(cat.age);
-		Console.WriteLine(cat.name);
-		
-		Bird bird = new Bird(5,"Larry","pigeon");
-		Console.WriteLine(bird.age);
-		Console.WriteLine(bird.name);
-		
-		Dog dog = new Dog(1,"Gloria","27km");
-		Console.WriteLine(dog.age);
-		Console.WriteLine(dog.name);
+		int a = 3;
+		Console.WriteLine("Initial Value "+a);
+		Multiplier(in a);
+		Console.WriteLine("Final Value "+a);
+	}
+	static void Multiplier(in int input)
+	{
+		int result = input + 3;
 	}
 }
