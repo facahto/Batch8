@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day03Encapsulation\\Day03Encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day003\\Day03Encapsulation\\Day03Encapsulation.csproj",
       "projectName": "Day03Encapsulation",
-      "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day03Encapsulation\\Day03Encapsulation.csproj",
+      "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day003\\Day03Encapsulation\\Day03Encapsulation.csproj",
       "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day03Encapsulation\\obj\\",
+      "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day003\\Day03Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
