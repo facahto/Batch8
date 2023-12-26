@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\bin\Debug\net7.0\Interface002.exe
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\bin\Debug\net7.0\Interface002.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\bin\Debug\net7.0\Interface002.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\bin\Debug\net7.0\Interface002.dll
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\bin\Debug\net7.0\Interface002.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.dll
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\refint\Interface002.dll
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\Interface002.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\Interface002\obj\Debug\net7.0\ref\Interface002.dll

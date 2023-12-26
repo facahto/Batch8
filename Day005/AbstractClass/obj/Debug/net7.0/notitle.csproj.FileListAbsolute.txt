@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\bin\Debug\net7.0\notitle.exe
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\bin\Debug\net7.0\notitle.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\bin\Debug\net7.0\notitle.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\bin\Debug\net7.0\notitle.dll
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\bin\Debug\net7.0\notitle.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.dll
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\refint\notitle.dll
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\notitle.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day005\notitle\obj\Debug\net7.0\ref\notitle.dll
