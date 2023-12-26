@@ -18,6 +18,10 @@ public class Printer30Juta : IPrinter
 	{
 		Console.WriteLine("Printer30Juta Scan");
 	}
+	public void Other()
+	{
+		Console.WriteLine("check");
+	}
 }
 public class Printer1Juta : IPrinter
 {

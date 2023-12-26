@@ -1,14 +1,14 @@
 ﻿public interface IPrint
 {
-	void Print(); //abstrak
+	void Print(); 
 }
 public interface IScan
 {
-	void Scan(); //abstrak
+	void Scan(); 
 }
 public interface IFax
 {
-	void Fax(); //abstrak
+	void Fax(); 
 }
 public interface IPrinterMahal : IPrint, IScan, IFax{}
 
@@ -45,6 +45,7 @@ class Program
 	}
 	static void Printer(IPrinterMahal printer)
 	{
+		printer.Print();
 		printer.Scan();
 	}
 	static void Printer2(IPrint printer)
