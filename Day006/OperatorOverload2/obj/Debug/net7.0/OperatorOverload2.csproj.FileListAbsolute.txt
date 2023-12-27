@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\bin\Debug\net7.0\OperatorOverload2.exe
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\bin\Debug\net7.0\OperatorOverload2.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\bin\Debug\net7.0\OperatorOverload2.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\bin\Debug\net7.0\OperatorOverload2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\bin\Debug\net7.0\OperatorOverload2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\refint\OperatorOverload2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\OperatorOverload2.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\OperatorOverload2\obj\Debug\net7.0\ref\OperatorOverload2.dll
