@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\bin\Debug\net7.0\Delegate2.exe
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\bin\Debug\net7.0\Delegate2.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\bin\Debug\net7.0\Delegate2.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\bin\Debug\net7.0\Delegate2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\bin\Debug\net7.0\Delegate2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\refint\Delegate2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\Delegate2.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate2\obj\Debug\net7.0\ref\Delegate2.dll
