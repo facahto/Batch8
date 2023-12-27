@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\noname\\noname.csproj": {}
+    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\Static\\noname.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\noname\\noname.csproj": {
+    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\Static\\noname.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\noname\\noname.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\Static\\noname.csproj",
         "projectName": "noname",
-        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\noname\\noname.csproj",
+        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\Static\\noname.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\noname\\obj\\",
+        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day005\\Static\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"

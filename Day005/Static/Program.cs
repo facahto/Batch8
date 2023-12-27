@@ -4,16 +4,16 @@ class Program
 	static void Main()
 	{
 		Human human = new Human("a");
-		Console.WriteLine(human.GetName());
-		Console.WriteLine(Human.Counter());
+		Console.WriteLine(human.GetName());//
+		Console.WriteLine(Human.Counter());//Punya classnya
 		
 		Human human2 = new Human("b");
 		Console.WriteLine(human2.GetName());
-		Console.WriteLine(Human.Counter());
+		Console.WriteLine(Human.Counter());//Punya classnya
 		
-		Human human3 = new Human("b");
+		Human human3 = new Human("c");
 		Console.WriteLine(human3.GetName());
-		Console.WriteLine(Human.Counter());
+		Console.WriteLine(Human.Counter()); //Punya classnya
 	}
 }
 class Human

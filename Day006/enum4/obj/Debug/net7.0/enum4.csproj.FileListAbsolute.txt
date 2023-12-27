@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\bin\Debug\net7.0\enum4.exe
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\bin\Debug\net7.0\enum4.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\bin\Debug\net7.0\enum4.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\bin\Debug\net7.0\enum4.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\bin\Debug\net7.0\enum4.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\refint\enum4.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\enum4.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\enum4\obj\Debug\net7.0\ref\enum4.dll
