@@ -2,20 +2,13 @@
 {
 	static void Main()
 	{
-		Car car = new Car(3)
-		Action<int> print = car.Print;
-		print();
+		
 	}
 }
-class Car
+class Youtuber
 {
-	public int i;
-	public Car(int i)
+	public UploadVideo()
 	{
-		this.i= i;
-	}
-	public void Print()
-	{
-		Console.WriteLine(i);
+		
 	}
 }
