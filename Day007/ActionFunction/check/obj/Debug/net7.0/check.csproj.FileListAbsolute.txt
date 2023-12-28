@@ -1,0 +1,5 @@
+C:\Users\Batch 8\Desktop\Batch8\Day007\ActionFunction\check\obj\Debug\net7.0\check.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\ActionFunction\check\obj\Debug\net7.0\check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day007\ActionFunction\check\obj\Debug\net7.0\check.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\ActionFunction\check\obj\Debug\net7.0\check.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day007\ActionFunction\check\obj\Debug\net7.0\check.csproj.CoreCompileInputs.cache
