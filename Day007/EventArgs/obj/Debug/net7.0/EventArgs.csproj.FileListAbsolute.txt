@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\bin\Debug\net7.0\EventArgs.exe
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\bin\Debug\net7.0\EventArgs.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\bin\Debug\net7.0\EventArgs.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\bin\Debug\net7.0\EventArgs.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\bin\Debug\net7.0\EventArgs.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\refint\EventArgs.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\EventArgs.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EventArgs\obj\Debug\net7.0\ref\EventArgs.dll

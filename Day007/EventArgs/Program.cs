@@ -26,14 +26,14 @@ class Publisher
 {
 	public string Name;
 	// ------ EventHandler
-	public event EventHandler mySubscriber; //EVENT
+	public event EventHandler<MyEventArgs> mySubscriber; //EVENT
 	public Publisher(string name){
 		Name = name;
 	}
 	public void SendNotification()
 	{
 		// ------ Invoke
-		mySubscriber.Invoke(this,EventArgs.Empty);
+		mySubscriber?.Invoke(this, new MyEventArgs(){data = "data"});
 	}
 	/*overide from class object
 	class object: class paling pertama*/
@@ -46,7 +46,7 @@ class Youtuber
 {
 	public string Name {get;}
 	// ------ EventHandler
-	public event EventHandler mySubscriber; 
+	public event EventHandler<MyEventArgs> mySubscriber; 
 	public Youtuber(string name)
 	{
 		Name = name;
@@ -60,7 +60,7 @@ class Youtuber
 	public void SendNotification(string message)
 	{
 		// ------ Invoke
-		mySubscriber?.Invoke(this,EventArgs.Empty);
+		mySubscriber?.Invoke(this, new MyEventArgs(){data = "data"});
 	}
 	public override string ToString()
 	{
@@ -71,9 +71,13 @@ class Youtuber
 class Subscriber
 {
 	// ------ EventHandler
-	public void GetNotification(object sender, EventArgs e)
+	public void GetNotification(object sender, MyEventArgs e)
 	{
-		Console.WriteLine("Subscriber get notified: "+sender);
-		//bisa juga: Console.WriteLine("Subscriber get notified: "+sender.ToString());
+		Console.WriteLine("Subscriber get notified: " + sender + e.data);
+		
 	}
+}
+class MyEventArgs : EventArgs
+{
+	public string data;
 }

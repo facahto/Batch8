@@ -26,14 +26,14 @@ class Publisher
 {
 	public string Name;
 	// ------ EventHandler
-	public event EventHandler mySubscriber; //EVENT
+	public event EventHandler? mySubscriber; //EVENT
 	public Publisher(string name){
 		Name = name;
 	}
 	public void SendNotification()
 	{
 		// ------ Invoke
-		mySubscriber.Invoke(this,EventArgs.Empty);
+		mySubscriber?.Invoke(this,EventArgs.Empty);
 	}
 	/*overide from class object
 	class object: class paling pertama*/
@@ -46,7 +46,7 @@ class Youtuber
 {
 	public string Name {get;}
 	// ------ EventHandler
-	public event EventHandler mySubscriber; 
+	public event EventHandler? mySubscriber; 
 	public Youtuber(string name)
 	{
 		Name = name;
