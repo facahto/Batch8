@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\bin\Debug\net7.0\EvenHandler.exe
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\bin\Debug\net7.0\EvenHandler.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\bin\Debug\net7.0\EvenHandler.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\bin\Debug\net7.0\EvenHandler.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\bin\Debug\net7.0\EvenHandler.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\refint\EvenHandler.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\EvenHandler.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\EvenHandler\obj\Debug\net7.0\ref\EvenHandler.dll

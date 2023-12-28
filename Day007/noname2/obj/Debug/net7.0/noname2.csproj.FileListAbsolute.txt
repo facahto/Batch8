@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\bin\Debug\net7.0\noname2.exe
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\bin\Debug\net7.0\noname2.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\bin\Debug\net7.0\noname2.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\bin\Debug\net7.0\noname2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\bin\Debug\net7.0\noname2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\refint\noname2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\noname2.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day007\noname2\obj\Debug\net7.0\ref\noname2.dll
