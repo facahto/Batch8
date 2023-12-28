@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\bin\Debug\net7.0\Delegate4.exe
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\bin\Debug\net7.0\Delegate4.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\bin\Debug\net7.0\Delegate4.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\bin\Debug\net7.0\Delegate4.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\bin\Debug\net7.0\Delegate4.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\refint\Delegate4.dll
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\Delegate4.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day006\Delegate4\obj\Debug\net7.0\ref\Delegate4.dll

@@ -37,6 +37,7 @@ class GameController
 	}
 	public void UpdateGameStatus()
 	{
+		
 		string status = "game Running";
 		mySubscriber.Invoke(status);
 	}
@@ -56,7 +57,6 @@ class Program
 		game.mySubscriber += email.SendEmail;
 		game.mySubscriber += database.SendDatabase;
 		game.mySubscriber += api.SendAPI;
-		//Invoke
 		game.UpdateGameStatus();
 	}
 }
