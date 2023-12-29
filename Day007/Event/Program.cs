@@ -14,10 +14,11 @@
 		youtuber.UploadVideo();
 	}
 }
-public delegate void MySubscriber(string message);
+//public delegate void MySubscriber(string message);
 //Publisher
 class Youtuber
 {
+	public Action<string> MySubscriber;
 	public event MySubscriber mySubscriber; //EVENT
 	public void UploadVideo()
 	{

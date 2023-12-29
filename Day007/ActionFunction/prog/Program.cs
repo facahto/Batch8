@@ -7,68 +7,35 @@
 		Subscriber subs2 = new Subscriber();
 		Subscriber subs3 = new Subscriber();
 		
-		Youtuber youtuber = new Youtuber("Yusuf");
-		youtuber.mySubscriber += subs3.GetNotification;
+		Youtuber youtuber = new Youtuber();
+		
+		youtuber.mySubscriber += subs1.GetNotification;
+		youtuber.mySubscriber += subs1.GetNotification;
 		youtuber.UploadVideo();
-		
-		Youtuber youtuber2 = new Youtuber("Yanto");
-		
-		youtuber2.UploadVideo();
-		
-		Publisher publisher = new Publisher("Jarot");
-		publisher.mySubscriber +=subs1.GetNotification;
-		publisher.SendNotification();
 	}
 }
-
+//public delegate void MySubscriber(string message);
 //Publisher
-class Publisher
-{
-	public string Name;
-	public event EventHandler mySubscriber; 
-	public Publisher(string name){
-		Name = name;
-	}
-	public void SendNotification()
-	{
-		mySubscriber.Invoke(this,EventArgs.Empty);
-	}
-	public override string ToString()
-	{
-		//Func
-		return Name;
-	}
-}
 class Youtuber
 {
-	public string Name {get;}
-	public event EventHandler mySubscriber; 
-	public Youtuber(string name)
-	{
-		Name = name;
-	}
+	public Action<string> MySubscriber;
+	public event MySubscriber mySubscriber; //EVENT
 	public void UploadVideo()
 	{
-		//action
 		Console.WriteLine("Uploading...");
 		Console.WriteLine("Finished");
-		SendNotification("Here is my new video");
+		Console.WriteLine("Here is my new video");
 	}
 	public void SendNotification(string message)
 	{
-		mySubscriber?.Invoke(this,EventArgs.Empty);
-	}
-	public override string ToString()
-	{
-		//Func
-		return Name;
+		mySubscriber.Invoke(message);
 	}
 }
 //Subscriber
 class Subscriber
 {
-	public void GetNotification(object sender, EventArgs e)
+	public void GetNotification(string message)
 	{
-		Console.WriteLine("Subscriber get notified: "+sender);
+		Console.WriteLine("Subscriber get notified"+message);
 	}
 }
