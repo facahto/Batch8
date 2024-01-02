@@ -7,6 +7,7 @@
 		myDel += Mul;
 		int[] myResult = new int[2];
 		
+		//Untuk multiple delegate
 		Delegate[] allDelegate = myDel.GetInvocationList();
 		int count = 0;
 		int a = 3;
