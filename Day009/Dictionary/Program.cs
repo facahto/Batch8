@@ -6,22 +6,22 @@ class Program
 	{	
 		//Dictionary 
 		Dictionary<int,string> myDictionary = new();
-		myDictionary.Add(1,"satu");
+		myDictionary.Add(5,"satu");
 		myDictionary.Add(2,"dua");
 		// foreach(KeyValuePair<int,string> kvp in myDictionary)
 		// {
 		// 	Console.WriteLine(kvp.Key);
 		// 	Console.WriteLine(kvp.Value);
 		// }
-		// foreach(int kvp in myDictionary.Keys)
-		// {
-		// 	Console.WriteLine(kvp);
-		// }
-		foreach(string kvp in myDictionary.Values)
+		//SHORT BY KEY
+		foreach(var kvp in myDictionary.OrderByDescending(x => x.Key))
 		{
 			Console.WriteLine(kvp);
 		}
-		Console.WriteLine(myDictionary.ContainsKey(2));
-		
+		// foreach(string kvp in myDictionary.Values)
+		// {
+		// 	Console.WriteLine(kvp);
+		// }
+		// Console.WriteLine(myDictionary.ContainsKey(2));
 	}
 }
