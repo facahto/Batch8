@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\bin\Debug\net7.0\finalizer.exe
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\bin\Debug\net7.0\finalizer.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\bin\Debug\net7.0\finalizer.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\bin\Debug\net7.0\finalizer.dll
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\bin\Debug\net7.0\finalizer.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.dll
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\refint\finalizer.dll
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\finalizer.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day028\finalizer\obj\Debug\net7.0\ref\finalizer.dll

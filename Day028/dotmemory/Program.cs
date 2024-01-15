@@ -2,9 +2,11 @@
 {
 	static void Main()
 	{
-		string a = "Hello";
+		
 		for(int i =0;i<1000;i++)
 		{
+			string a = "Hello";
+			a+="World";
 			a+="!";
 		}
 	}
