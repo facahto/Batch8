@@ -1,0 +1,30 @@
+C:\Users\Batch 8\Desktop\Batch8\Day030\bin\Debug\net7.0\Day030.exe
+C:\Users\Batch 8\Desktop\Batch8\Day030\bin\Debug\net7.0\Day030.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day030\bin\Debug\net7.0\Day030.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day030\bin\Debug\net7.0\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\bin\Debug\net7.0\Day030.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\refint\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\Day030.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\obj\Debug\net7.0\ref\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\bin\Debug\net7.0\Day030.exe
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\bin\Debug\net7.0\Day030.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\bin\Debug\net7.0\Day030.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\bin\Debug\net7.0\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\bin\Debug\net7.0\Day030.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\refint\Day030.dll
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\Day030.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day030\Conditional Compilation\obj\Debug\net7.0\ref\Day030.dll

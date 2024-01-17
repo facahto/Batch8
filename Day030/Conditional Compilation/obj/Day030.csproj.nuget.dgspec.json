@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day028\\optimize\\optimize.csproj": {}
+    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day030\\Conditional Compilation\\Day030.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day028\\optimize\\optimize.csproj": {
+    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day030\\Conditional Compilation\\Day030.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day028\\optimize\\optimize.csproj",
-        "projectName": "optimize",
-        "projectPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day028\\optimize\\optimize.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day030\\Conditional Compilation\\Day030.csproj",
+        "projectName": "Day030",
+        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day030\\Conditional Compilation\\Day030.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day028\\optimize\\obj\\",
+        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day030\\Conditional Compilation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
