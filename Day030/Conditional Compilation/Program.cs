@@ -1,4 +1,5 @@
-﻿
+﻿#define SELAMET
+#define JOKO
 class Program
 {
 	static void Main()
@@ -21,6 +22,11 @@ class Program
 			Console.WriteLine("SELAMET");
 		}
 		#endregion
+		#endif
+		#if JOKO
+		{
+			Console.WriteLine("JOKO");
+		}
 		#endif
 	}
 }
