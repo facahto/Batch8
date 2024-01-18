@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\bin\Debug\net7.0\WithoutThread.exe
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\bin\Debug\net7.0\WithoutThread.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\bin\Debug\net7.0\WithoutThread.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\bin\Debug\net7.0\WithoutThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\bin\Debug\net7.0\WithoutThread.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\refint\WithoutThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\WithoutThread.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\WithoutThread\obj\Debug\net7.0\ref\WithoutThread.dll

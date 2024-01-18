@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\bin\Debug\net7.0\DocumentationXML.exe
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\bin\Debug\net7.0\DocumentationXML.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\bin\Debug\net7.0\DocumentationXML.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\bin\Debug\net7.0\DocumentationXML.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\bin\Debug\net7.0\DocumentationXML.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\refint\DocumentationXML.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\DocumentationXML.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\DocumentationXML\obj\Debug\net7.0\ref\DocumentationXML.dll
