@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\bin\Debug\net7.0\ClassConstructorThread.exe
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\bin\Debug\net7.0\ClassConstructorThread.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\bin\Debug\net7.0\ClassConstructorThread.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\bin\Debug\net7.0\ClassConstructorThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\bin\Debug\net7.0\ClassConstructorThread.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\refint\ClassConstructorThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ClassConstructorThread.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\ClassConstructorThread\obj\Debug\net7.0\ref\ClassConstructorThread.dll

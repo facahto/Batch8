@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark TryAsync.MyMethod: DefaultJob
+//    * Benchmarked method `MyMethod` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark TryAsync.MyMethod2: DefaultJob
+//    * Benchmarked method `MyMethod2` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
