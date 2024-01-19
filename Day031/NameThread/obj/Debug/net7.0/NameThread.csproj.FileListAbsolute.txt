@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\bin\Debug\net7.0\NameThread.exe
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\bin\Debug\net7.0\NameThread.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\bin\Debug\net7.0\NameThread.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\bin\Debug\net7.0\NameThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\bin\Debug\net7.0\NameThread.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\refint\NameThread.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\NameThread.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\NameThread\obj\Debug\net7.0\ref\NameThread.dll

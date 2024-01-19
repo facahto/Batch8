@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.exe
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\refint\TaskAsyncAwait.dll
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day031\TaskAsyncAwait\obj\Debug\net7.0\ref\TaskAsyncAwait.dll
