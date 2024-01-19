@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\bin\Debug\net7.0\DeadLock2.exe
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\bin\Debug\net7.0\DeadLock2.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\bin\Debug\net7.0\DeadLock2.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\bin\Debug\net7.0\DeadLock2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\bin\Debug\net7.0\DeadLock2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\refint\DeadLock2.dll
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\DeadLock2.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock2\obj\Debug\net7.0\ref\DeadLock2.dll

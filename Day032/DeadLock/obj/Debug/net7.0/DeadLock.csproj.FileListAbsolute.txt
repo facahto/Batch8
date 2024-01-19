@@ -1,0 +1,5 @@
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock\obj\Debug\net7.0\DeadLock.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock\obj\Debug\net7.0\DeadLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock\obj\Debug\net7.0\DeadLock.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock\obj\Debug\net7.0\DeadLock.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day032\DeadLock\obj\Debug\net7.0\DeadLock.csproj.CoreCompileInputs.cache
