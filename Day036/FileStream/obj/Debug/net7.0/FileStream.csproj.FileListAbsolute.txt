@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\bin\Debug\net7.0\FileStream.exe
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\bin\Debug\net7.0\FileStream.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\bin\Debug\net7.0\FileStream.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\bin\Debug\net7.0\FileStream.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\bin\Debug\net7.0\FileStream.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\refint\FileStream.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\FileStream.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStream\obj\Debug\net7.0\ref\FileStream.dll

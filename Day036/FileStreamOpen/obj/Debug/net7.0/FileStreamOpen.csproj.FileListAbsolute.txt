@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.exe
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\bin\Debug\net7.0\FileStreamOpen.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\refint\FileStreamOpen.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\FileStreamOpen.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\FileStreamOpen\obj\Debug\net7.0\ref\FileStreamOpen.dll

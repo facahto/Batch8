@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day032\\DeadLock2\\DeadLock2.csproj": {}
+    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day036\\StreamWriterUsing\\StreamWriterUsing.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day032\\DeadLock2\\DeadLock2.csproj": {
+    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day036\\StreamWriterUsing\\StreamWriterUsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day032\\DeadLock2\\DeadLock2.csproj",
-        "projectName": "DeadLock2",
-        "projectPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day032\\DeadLock2\\DeadLock2.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day036\\StreamWriterUsing\\StreamWriterUsing.csproj",
+        "projectName": "StreamWriterUsing",
+        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day036\\StreamWriterUsing\\StreamWriterUsing.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day032\\DeadLock2\\obj\\",
+        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day036\\StreamWriterUsing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
