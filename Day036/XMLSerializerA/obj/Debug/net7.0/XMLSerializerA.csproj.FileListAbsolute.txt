@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\bin\Debug\net7.0\XMLSerializerA.exe
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\bin\Debug\net7.0\XMLSerializerA.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\bin\Debug\net7.0\XMLSerializerA.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\bin\Debug\net7.0\XMLSerializerA.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\bin\Debug\net7.0\XMLSerializerA.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\refint\XMLSerializerA.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\XMLSerializerA.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\XMLSerializerA\obj\Debug\net7.0\ref\XMLSerializerA.dll

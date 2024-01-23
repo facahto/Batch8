@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\bin\Debug\net7.0\StreamReaderReadToEnd.exe
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\bin\Debug\net7.0\StreamReaderReadToEnd.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\bin\Debug\net7.0\StreamReaderReadToEnd.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\bin\Debug\net7.0\StreamReaderReadToEnd.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\bin\Debug\net7.0\StreamReaderReadToEnd.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\refint\StreamReaderReadToEnd.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\StreamReaderReadToEnd.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\StreamReaderReadToEnd\obj\Debug\net7.0\ref\StreamReaderReadToEnd.dll

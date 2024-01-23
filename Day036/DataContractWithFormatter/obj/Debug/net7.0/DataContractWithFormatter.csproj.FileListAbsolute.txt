@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\bin\Debug\net7.0\DataContractWithFormatter.exe
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\bin\Debug\net7.0\DataContractWithFormatter.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\bin\Debug\net7.0\DataContractWithFormatter.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\bin\Debug\net7.0\DataContractWithFormatter.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\bin\Debug\net7.0\DataContractWithFormatter.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\refint\DataContractWithFormatter.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\DataContractWithFormatter.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\DataContractWithFormatter\obj\Debug\net7.0\ref\DataContractWithFormatter.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\bin\Debug\net7.0\JSONSerializer.exe
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\bin\Debug\net7.0\JSONSerializer.deps.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\bin\Debug\net7.0\JSONSerializer.runtimeconfig.json
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\bin\Debug\net7.0\JSONSerializer.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\bin\Debug\net7.0\JSONSerializer.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.csproj.AssemblyReference.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.AssemblyInfoInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.AssemblyInfo.cs
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\refint\JSONSerializer.dll
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.pdb
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\JSONSerializer.genruntimeconfig.cache
+C:\Users\Batch 8\Desktop\Batch8\Day036\JSONSerializer\obj\Debug\net7.0\ref\JSONSerializer.dll

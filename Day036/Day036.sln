@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream", "FileStream\FileStream.csproj", "{67F85E34-094B-4CD6-A0FF-5F2B0F91D26E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONSerializer", "JSONSerializer\JSONSerializer.csproj", "{CDEAC2D6-C315-4C3B-9135-296549E5DFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContractWithFormatter", "DataContractWithFormatter\DataContractWithFormatter.csproj", "{95295723-9AA6-472A-93AD-336ADE97EA3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{67F85E34-094B-4CD6-A0FF-5F2B0F91D26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F85E34-094B-4CD6-A0FF-5F2B0F91D26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F85E34-094B-4CD6-A0FF-5F2B0F91D26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEAC2D6-C315-4C3B-9135-296549E5DFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEAC2D6-C315-4C3B-9135-296549E5DFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEAC2D6-C315-4C3B-9135-296549E5DFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEAC2D6-C315-4C3B-9135-296549E5DFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95295723-9AA6-472A-93AD-336ADE97EA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95295723-9AA6-472A-93AD-336ADE97EA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95295723-9AA6-472A-93AD-336ADE97EA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95295723-9AA6-472A-93AD-336ADE97EA3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
