@@ -1,0 +1,4 @@
+2024-01-29 13:52:24.9129 Info Program started. 
+2024-01-29 13:52:24.9384 Fatal FATAL MESSAGE 
+2024-01-29 13:52:24.9389 Info The result of the calculation is: 50 
+2024-01-29 13:52:24.9389 Info Program finished. 

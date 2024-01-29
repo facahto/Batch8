@@ -1,0 +1,17 @@
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\bin\Debug\net7.0\nlogtutorial01.exe
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\bin\Debug\net7.0\nlogtutorial01.deps.json
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\bin\Debug\net7.0\nlogtutorial01.runtimeconfig.json
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\bin\Debug\net7.0\nlogtutorial01.dll
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\bin\Debug\net7.0\nlogtutorial01.pdb
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\bin\Debug\net7.0\NLog.dll
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.csproj.AssemblyReference.cache
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.AssemblyInfoInputs.cache
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.AssemblyInfo.cs
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.csproj.CoreCompileInputs.cache
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.csproj.CopyComplete
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.dll
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\refint\nlogtutorial01.dll
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.pdb
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\nlogtutorial01.genruntimeconfig.cache
+c:\Users\Batch 8\Desktop\Batch8\Day042\nlogtutorial01\obj\Debug\net7.0\ref\nlogtutorial01.dll

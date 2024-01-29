@@ -1,0 +1,4 @@
+2024-01-29 13:49:40,381 [1] INFO  Log4NetExample.Program - Program started.
+2024-01-29 13:49:40,394 [1] INFO  Log4NetExample.Program - Performing a calculation...
+2024-01-29 13:49:40,395 [1] INFO  Log4NetExample.Program - The result of the calculation is: 50
+2024-01-29 13:49:40,395 [1] INFO  Log4NetExample.Program - Program finished.
