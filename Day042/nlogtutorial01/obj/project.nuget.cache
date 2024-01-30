@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g67d+TWh1k5gFIRhgnIgHFIPqjwavWJ5UY1ejMKi+1M76+ODVDslaSh8R1IoHf4u2iDmaMY4GH1oyqXFvNBEhg==",
+  "dgSpecHash": "yPrs2+RgJr84IfJmnlggNxPkWvPicmQ/oSOpdf9f5a0K6Fg+VX9MBZyvKwmPx46o0SW9Dh0ztZucwqSuDpB+UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial01\\nlogtutorial01.csproj",
+  "projectFilePath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial01\\nlogtutorial01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Batch 8\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512"
   ],

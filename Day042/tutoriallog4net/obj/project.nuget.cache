@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WB2MDkUGKY+0rJdTeYeHi1i5E/6bvamCq7j0SuB7Rkyaph0KjnIVxDKQ6IeYXS9lRjPAqFSmk/DRBDg/p+LL1A==",
+  "dgSpecHash": "AH2BrkBKgNFGn0MtlY4xTxkR2LaGTRrZNWDPmE9tbmbEh7B04owWDFNZENn5dcrtVm2fcrJNifSQhyfH+uH27w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\tutoriallog4net\\tutoriallog4net.csproj",
+  "projectFilePath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\tutoriallog4net\\tutoriallog4net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Batch 8\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\Batch 8\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj": {}
+    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj": {
+    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj",
         "projectName": "nlogtutorial",
-        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj",
+        "projectPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\nlogtutorial.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\obj\\",
+        "outputPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\nlogtutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj": {}
+    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj": {
+    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj",
         "projectName": "diffleveldiffout",
-        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj",
+        "projectPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\diffleveldiffout.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\obj\\",
+        "outputPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\diffleveldiffout\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"

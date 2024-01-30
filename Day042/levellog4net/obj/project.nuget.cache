@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBhHOWKS+4ThPhLsPczdkS0WEauYkqAPkpBIusgNQMvt9c/xaO2N2Wl7K/rABpGhCpduonk+z3oDW+M6EAZrbw==",
+  "dgSpecHash": "GdgtkcS6iPDUOWZlpvjAQwQEjFK3J87Jb3mjI9nvcVXByebs6RxGfhyRDfqb0IEGqkf1n/nqoWpJvd7aNwCODw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\levellog4net\\levellog4net.csproj",
+  "projectFilePath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\levellog4net\\levellog4net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Batch 8\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\Batch 8\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

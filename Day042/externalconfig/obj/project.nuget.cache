@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/q7AejOBXPkzaB3ElCzs/jq/CCUqkwjEugv4cDyuE/5oocGiaFbl7dFF3i8PkEGWJ0x9pDKNukpwauNrlhkIg==",
+  "dgSpecHash": "ddfHdtsD+EFEh5IfcSoWlm7zFiQtqiuL/Dop2BvhIyNDLDeugN1EpbeIXt+f1nGpxbyVtR1D/389Ks+jexG9cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj",
+  "projectFilePath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Batch 8\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\Batch 8\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

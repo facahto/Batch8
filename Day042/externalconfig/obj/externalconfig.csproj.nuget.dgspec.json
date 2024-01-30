@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj": {}
+    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj": {
+    "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj",
         "projectName": "externalconfig",
-        "projectPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj",
+        "projectPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\externalconfig.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\obj\\",
+        "outputPath": "c:\\Users\\Batch 8\\Desktop\\Batch8\\Day042\\externalconfig\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
